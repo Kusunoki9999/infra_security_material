@@ -9,10 +9,10 @@ ITセキュリティに関する意識向上を目的としたWEBアプリケー
 
 ## docs/
 各章に関するドキュメントファイル。
-- `chapter1_XSS.md`: XSSの説明と修正手順
+- `chapter1_chmod.md`: chmodの問題に関する説明と修正手順
 - `chapter2_directory_traversal.md`: ディレクトリトラバーサルの説明と修正手順
 - `chapter3_cookie_theft.md`: クッキー盗用の説明と修正手順
-- `chapter4_chmod.md`: chmodの問題に関する説明と修正手順
+- `chapter4_XSS.md`: XSSの説明と修正手順
 
 ## src/
 アプリケーションのメインソースコードを含むディレクトリ。
